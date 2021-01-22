@@ -8,7 +8,7 @@ sections:
       Intervention sur mesure pour particuliers, professionnels & collectivités
     actions:
       - label: DEVIS GRATUIT
-        url: /pricing
+        url: /contact
         style: primary
       - label: Learn More
         url: /features
