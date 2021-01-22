@@ -13,7 +13,7 @@ sections:
       - label: TARIFS
         url: /tarif/
         style: secondary
-    image: images/punaise de lit.jpg
+    image: images/exterminateur-punaise-de-lit.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
