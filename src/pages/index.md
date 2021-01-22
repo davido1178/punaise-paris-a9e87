@@ -10,7 +10,7 @@ sections:
       - label: DEVIS GRATUIT
         url: /contact/
         style: primary
-      - label: Learn More
+      - label: TARIFS
         url: /features
         style: secondary
     image: images/classic/hero.png
