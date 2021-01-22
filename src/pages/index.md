@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Entreprise de Désinsectisation Anti Punaises de lit
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Intervention sur mesure pour particuliers, professionnels & collectivités
     actions:
       - label: Try Free
         url: /pricing
