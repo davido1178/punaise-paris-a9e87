@@ -11,7 +11,7 @@ sections:
         url: /contact/
         style: primary
       - label: TARIFS
-        url: /features
+        url: /tarif/
         style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
