@@ -7,7 +7,7 @@ sections:
     content: |
       Intervention sur mesure pour particuliers, professionnels & collectivités
     actions:
-      - label: Try Free
+      - label: DEVIS GRATUIT
         url: /pricing
         style: primary
       - label: Learn More
