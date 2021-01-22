@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Entreprise de Désinsectisation Anti Punaises de lit
-    subtitle: Traitement professionnel anti punaises de lit
+    subtitle: Traitement Professionnel Anti Punaise de Lit
     content: |
       Intervention sur mesure pour particuliers, professionnels & collectivités
     actions:
